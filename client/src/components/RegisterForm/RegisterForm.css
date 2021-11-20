@@ -1,0 +1,22 @@
+input{
+    box-shadow: none ;
+    margin-top: 10px ;
+    border-color: 1px solid black ;
+
+}
+
+.frm{
+    margin-top: 140px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h4{
+    font-size: 24px;
+    font-family: serif;
+}

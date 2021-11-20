@@ -1,0 +1,19 @@
+.row {
+    justify-content: center;
+}
+
+h1{
+    font-size:18px !important;
+    text-align: left;
+    color: black;
+}
+.img-fluid{
+    height: 200px;
+}
+
+.zoomoutcard{
+    transition: transform 0.2s;
+}
+.zoomoutcard:hover{
+    transform: scale(1.03);
+}

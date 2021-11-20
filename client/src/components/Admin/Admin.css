@@ -1,0 +1,14 @@
+.admin li{
+ list-style-type: none ;
+ display: inline ;
+ margin-left: 20px;
+}
+
+.admin{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 166, 0);
+    margin-top: 1cm;
+    
+    
+}

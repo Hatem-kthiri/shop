@@ -1,0 +1,45 @@
+.title{
+
+    display: flex;
+    justify-content: center !important;
+    color: rgb(30, 30, 70);
+    margin-top: 2%;
+}
+
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.unit{
+    width: 12% !important;
+ }
+
+
+ .total{
+     width: 15% !important;
+ }
+
+ .delete{
+     color: rgb(255, 0, 0) !important;
+ }
+ 
+ h2{
+     font-size: 25px !important;
+     font-weight: bold;
+ }
+
+
+ .btn{
+     
+     background-color: rgb(255, 166, 0);
+     color: white;
+     width: auto;
+     text-align: center;
+ }
+
+ .bt{
+     display: flex;
+     justify-content: center;
+ }
