@@ -31,6 +31,8 @@ function Home() {
                         return (
                             <div className="zoomoutcard col-md-3 mt-5 m-2         ">
                                 <Products product={product} />
+                                 <iframe width="1076" height="440" src="https://www.youtube.com/embed/ajSyV5kOUyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                             </div>
                         );
                     })
